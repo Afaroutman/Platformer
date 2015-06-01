@@ -443,6 +443,33 @@
       <Output>C:\Users\ahit0637\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer2_3.xnb</Output>
       <Time>2015-05-19T07:59:12.6900875-06:00</Time>
     </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_4.png</Source>
+      <Name>Backgrounds\Layer0_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ahit0637\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer0_4.xnb</Output>
+      <Time>2015-06-01T07:27:52.2829362-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer1_4.png</Source>
+      <Name>Backgrounds\Layer1_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ahit0637\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer1_4.xnb</Output>
+      <Time>2015-06-01T07:28:11.654778-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer2_4.png</Source>
+      <Name>Backgrounds\Layer2_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ahit0637\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer2_4.xnb</Output>
+      <Time>2015-06-01T07:28:28.2399754-06:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>

@@ -58,3 +58,7 @@ C:\Users\ahit0637\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Pl
 C:\Users\ahit0637\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer0_3.xnb
 C:\Users\ahit0637\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer1_3.xnb
 C:\Users\ahit0637\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer2_3.xnb
+C:\Users\ahit0637\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Levels\4.txt
+C:\Users\ahit0637\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer0_4.xnb
+C:\Users\ahit0637\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer1_4.xnb
+C:\Users\ahit0637\Documents\Visual Studio 2010\Projects\Platformer\Platformer\Platformer\bin\x86\Debug\Content\Backgrounds\Layer2_4.xnb

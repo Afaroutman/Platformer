@@ -48,7 +48,11 @@ Content\Sprites\MonsterC\Run1.xnb
 Content\Backgrounds\Layer0_3.xnb
 Content\Backgrounds\Layer1_3.xnb
 Content\Backgrounds\Layer2_3.xnb
+Content\Backgrounds\Layer0_4.xnb
+Content\Backgrounds\Layer1_4.xnb
+Content\Backgrounds\Layer2_4.xnb
 Content\Levels\0.txt
 Content\Levels\2.txt
 Content\Levels\1.txt
 Content\Levels\3.txt
+Content\Levels\4.txt
